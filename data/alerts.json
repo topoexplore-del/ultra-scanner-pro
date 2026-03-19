@@ -1,0 +1,114 @@
+{
+  "checked_at": "2026-03-19 16:26 (Bogot\u00e1)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "VRT",
+      "composite": 81,
+      "prob": 95,
+      "zones": {
+        "entry": 134.45,
+        "tp1": 140.59,
+        "tp2": 144.69,
+        "sl": 133.77
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "PDD",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PBR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "EC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "0700.HK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "PAC",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "1810.HK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ITX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BABA",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "LI",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "9988.HK",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ARM",
+      "failed": [
+        "Radar"
+      ]
+    }
+  ]
+}
