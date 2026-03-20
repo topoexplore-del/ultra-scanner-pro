@@ -1,8 +1,14 @@
 {
-  "checked_at": "2026-03-19 16:49 (Bogot\u00e1)",
+  "checked_at": "2026-03-20 11:03 (Bogot\u00e1)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
+    {
+      "ticker": "KLAC",
+      "failed": [
+        "Analysis"
+      ]
+    },
     {
       "ticker": "MU",
       "failed": [
